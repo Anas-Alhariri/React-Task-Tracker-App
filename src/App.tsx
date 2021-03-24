@@ -25,6 +25,12 @@ function App() {
             "day": "Feb 5th at 2:30pm",
             "reminder": false
         },
+        {
+            "id": 4,
+            "text": "Attend Class",
+            "day": "March 24th at 8:30 AM",
+            "reminder": true
+        },
     ]);
 
 
